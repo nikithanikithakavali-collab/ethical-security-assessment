@@ -1,0 +1,8 @@
+
+{
+  "debug_mode": true,
+  "https_enabled": false,
+  "minimum_password_length": 8,
+  "security_logging": false,
+  "dependencies_reviewed": false
+}
